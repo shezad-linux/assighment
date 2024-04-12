@@ -68,6 +68,5 @@ We would like to thank the following for their support and inspiration during th
 - [Cloudinary](https://cloudinary.com)
 - [Stack Overflow](https://stackoverflow.com/)
 
-## Contact
 
-For inquiries or collaboration opportunities, please contact us at [cse.nawaz.2003@gmail.com](cse.nawaz.2003@gmail.com).
+
